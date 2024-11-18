@@ -21,3 +21,8 @@ criaCartao(
     'Qual foi a guerra que parrou o mundo?',
     'A segunda guerra mundial'
 )
+criaCartao(
+    'Biologia',
+    'oque é a pneumonia?',
+    'È uma infecção pulmonar'
+)
